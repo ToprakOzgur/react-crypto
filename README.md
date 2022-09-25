@@ -1,10 +1,16 @@
 # Cryptoverse - Explore the World of Cryptocurrency
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+A React app displays crypto currency details
+![Cryptoworld]("./src/sc1.png")
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Details
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+-React,
+-Redux / redux toolkit / rtk query,
+-React Router,
+-Ant Design,
+-Millify,
+-Moment,
+-React-chartjs
 
-By the end of this video, you will become the master of working with APIs.
+inspired by ![Video]("https://www.youtube.com/watch?v=9DDX3US3kss")
