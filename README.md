@@ -13,4 +13,9 @@ A React app displays crypto currency details
 -Moment,
 -React-chartjs
 
-inspired by ![Video](https://www.youtube.com/watch?v=9DDX3US3kss)
+inspired by [Video](https://www.youtube.com/watch?v=9DDX3US3kss)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
