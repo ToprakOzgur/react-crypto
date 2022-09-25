@@ -5,17 +5,15 @@ A React app displays crypto currency details
 
 ## Details
 
--React,
--Redux / redux toolkit / rtk query,
--React Router,
--Ant Design,
--Millify,
--Moment,
--React-chartjs
-
-inspired by [Video](https://www.youtube.com/watch?v=9DDX3US3kss)
+- React,
+- Redux / redux toolkit / rtk query,
+- React Router,
+- Ant Design,
+- Millify,
+- Moment,
+- React-chartjs
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://crypto-world-1.netlify.app/)
+- Inspired by [Video](https://www.youtube.com/watch?v=9DDX3US3kss)
