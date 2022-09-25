@@ -1,7 +1,7 @@
 # Cryptoverse - Explore the World of Cryptocurrency
 
 A React app displays crypto currency details
-![Cryptoworld]("./src/sc1.png")
+![Cryptoworld]("./sc1.png")
 
 ## Details
 
