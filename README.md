@@ -15,5 +15,5 @@ A React app displays crypto currency details
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://crypto-world-1.netlify.app/)
+- Live Site URL: [Link](https://crypto-world-1.netlify.app/)
 - Inspired by [Video](https://www.youtube.com/watch?v=9DDX3US3kss)
